@@ -1,0 +1,7 @@
+*.dSYM/
+*.su
+*.idb
+*.pdb
+.cache
+.vscode
+build*
